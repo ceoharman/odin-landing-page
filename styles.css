@@ -48,5 +48,23 @@
 /* here logo */
 
 .hero-logo {
-  
+  font-size: xx-large;
+  font-weight: 36px;
+  padding-bottom: 10px;
+}
+
+/* hero paragraph */
+
+.hero-para {
+
+}
+
+/* hero button */
+
+.hero-button {
+  background-color: #3882f6;
+  color: white;
+  border: #3882f6;
+  padding: 10px 10px;
+  margin: 10px 10px;
 }
