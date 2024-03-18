@@ -1,0 +1,34 @@
+/* Universal elements starts from here */
+
+* {
+  font-family: helvetica;
+  margin: 0;
+}
+
+/* Header section starts from here */
+
+.header {
+  background-color: #1f2937;
+  color: #f9faf8;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-content: center;
+  padding: 40px 250px;
+}
+
+/* Header logo */
+
+.logo {
+  font-size: 24px;
+}
+
+/* header list */
+
+.list {
+  font-size: 18px;
+  color: #e5e7eb;
+  list-style-type: none;
+  display: flex;
+  gap: 20px;
+}
